@@ -19,7 +19,7 @@ standard/format ^^ to record/document flat tires on mastodon
 *tire position                                 front or rear
 *tire pressure                                 bars or psi (bars prefered)
 *bike load                                     usually rider's weight but could include pannier, backpack, etc...
-*mileage                                       number of kilometers accumuated by the tire since brand new, at the time of the puncture
+*mileage                                       number of kilometers, at the time of the puncture, accumulated by the tire since brand new
 *link                                          link to display the last 500m to 2km of the journey before the puncture was noticed, should help to locate hot spot where tires on different bikes where punctured
 *hashtags
 ```
